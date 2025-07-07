@@ -1,3 +1,4 @@
 name = "dockerproxy"
 main = "_worker.js"
+# worker兼容日期
 compatibility_date = "2025-07-07"
